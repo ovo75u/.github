@@ -270,3 +270,4 @@ git config --global http.postBuffer 4048576000
 <!-- 参考 [第一次参与开源项目](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.zh-cn.md) -->
 
 
+提交PR前建议先自查文档链接是否可正常访问。

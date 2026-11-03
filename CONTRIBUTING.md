@@ -271,3 +271,4 @@ git config --global http.postBuffer 4048576000
 
 
 提交PR前建议先自查文档链接是否可正常访问。
+提交内容请贴合文档主题，避免无关内容。

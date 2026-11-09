@@ -43,27 +43,18 @@ Blender 是一款免费、开源的三维创作软件，由荷兰的 Blender Fou
 
 ## 3. 下载与安装 <span id="install"></span>
 
+Blender 是完全免费开源的三维软件，可以前往官网获取。
+
 官方下载页：<https://www.blender.org/download/>
 
-国内网络下下载速度较慢时，可以使用高校或云厂商的镜像站，例如：
+> 社区推荐选择 **LTS长期支持版本**，稳定性更强，方便团队协作，降低模型文件版本不兼容的问题。
 
+国内访问官网下载速度较慢时，可以使用国内高校镜像站加速下载：
 - 清华大学 TUNA：<https://mirrors.tuna.tsinghua.edu.cn/blender/>
-- 南京大学：<https://mirror.nju.edu.cn/blender/>
-- 阿里云开源镜像站：<https://mirrors.aliyun.com/blender/release/Blender4.5/>
+- 南京大学：<https://mirrors.nju.edu.cn/blender/>
 
-各平台的获取方式：
-
-| 系统 | 获取方式 |
-| --- | --- |
-| Windows | 官网 Installer（`.msi`，推荐）或 Portable（`.zip`，免安装）；也可从 Microsoft Store 或 Steam 安装 |
-| macOS | 按芯片选择 Apple Silicon 或 Intel 版本，下载后拖入「应用程序」文件夹 |
-| Linux | 官网压缩包解压即用；也可用包管理器安装，例如 `snap install blender --classic` |
-
-建议直接选择 **LTS 版本**：稳定性优先，且后续约两年的维护更新都能收到。下载页会同时列出最新正式版与 LTS 版本。
-
-首次启动时，Blender 会询问主题、键位方案和鼠标选择方式。**建议全部保持默认**，即使用 Blender 默认键位与左键选择。原因很实际：网上绝大多数教程都基于默认键位录制，改动之后照教程操作会出现“按了没反应”或“效果不一样”的情况，排查起来很费时间。
-
-安装包体积约 300–400 MB。解压或安装时**建议使用纯英文路径**（例如 `C:\Blender`），避免个别插件在中文路径下解析失败。
+> 💡小提示：Windows可以选择msi安装版或者zip便携版，便携版解压后即可运行，无需执行安装程序。
+> Blender 不存在付费破解版本，请尽量从官方、可信镜像源下载，避免捆绑软件。
 
 ## 4. 界面速览 <span id="ui"></span>
 
